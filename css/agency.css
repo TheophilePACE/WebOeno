@@ -434,7 +434,8 @@ section {
     margin-top: 0; }
 
 aside.clients img {
-  margin: 50px auto; }
+  margin: 50px auto;
+  height: 150px; }
 
 section#contact {
   background-color: #222222;
