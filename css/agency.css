@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #222222;
   border-color: transparent; }
   .navbar-custom .navbar-brand {
-    color: #400022;
+    color: #ffffff;
     font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive; }
     .navbar-custom .navbar-brand:hover, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand.active {
       color: #0d0007; }
@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
     .navbar-custom.affix .navbar-brand {
       font-size: 1.5em; } }
 header {
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/header_bg_oeno.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
