@@ -330,8 +330,8 @@ section {
     .timeline > li .timeline-image {
       left: 0;
       margin-left: 0;
-      width: 80px;
-      height: 80px;
+      width: 100px;
+      height: 100px;
       position: absolute;
       z-index: 100;
       background-color: #400022;
@@ -600,7 +600,14 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #400022; }
 
+<<<<<<< HEAD
 .list_align_left {
   text-align: left;
 }
+=======
+.img-test{
+  d
+}
+
+>>>>>>> 39310d4cf60611f7ebfd917361d9b2c54da73941
 /*# sourceMappingURL=agency.css.map */
