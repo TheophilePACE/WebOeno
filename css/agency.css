@@ -600,4 +600,7 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #400022; }
 
+.list_align_left {
+  text-align: left;
+}
 /*# sourceMappingURL=agency.css.map */
